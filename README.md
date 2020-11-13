@@ -18,3 +18,14 @@ You’ve been asked by your CEO to create an overall snapshot of the ride-sharin
 ### DataFrame Summary
 
 The dataframe summary for ridesharing tells us a number of things.
+
+![1](https://user-images.githubusercontent.com/73450637/99102752-87548d00-25ac-11eb-983e-8d060b77e25e.png)
+
+> There are significantly more rides in Urban cities than Suburban or Rural. 
+> The average fare per ride and average fare per driver are actally most expensive in the rural areas and cheaper in the Urban cities.
+> This tells us that as a ride share service has more drivers available, the ride expenses or fares become cheaper on average.
+
+### Multiline Graph Summary
+
+The multiline graph gives a nice visualiation of the ride share data. 
+
