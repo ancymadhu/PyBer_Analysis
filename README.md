@@ -29,3 +29,16 @@ The dataframe summary for ridesharing tells us a number of things.
 
 The multiline graph gives a nice visualiation of the ride share data. 
 
+![1](https://user-images.githubusercontent.com/73450637/99103166-28434800-25ad-11eb-8f6c-38b477b3e52a.png)
+
+> It clearly shows that all city types (Urban, Suburban, and Rural) are fairly consistent in total fares over time.
+> There are a few spikes in the data here and there but overall quite consistent. 
+> It also shows that the majority of the money comes from Urban cities followed by Suburban and then Rural.
+
+## Summary
+
+The recommendations to the CEO upon reviewing the analysis are as follows:
+
+1. A very subsequent fare rise can be seen from February end till March (in all the three areas) which appears to be worth exploring.
+2. If we compare the number of drivers to total rides ratio, the number of drivers in urban are unusually high compared to the other two areas even though avaerage fare per driver is very low.
+3. Having proper driver to ride ration according to the area would be worth saving all other resources.
